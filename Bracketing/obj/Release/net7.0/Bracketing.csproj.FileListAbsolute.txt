@@ -1,0 +1,15 @@
+C:\Users\FaSciCake\source\repos\Core\Bracketing_TIng\Bracketing\bin\Release\net7.0\Bracketing.exe
+C:\Users\FaSciCake\source\repos\Core\Bracketing_TIng\Bracketing\bin\Release\net7.0\Bracketing.deps.json
+C:\Users\FaSciCake\source\repos\Core\Bracketing_TIng\Bracketing\bin\Release\net7.0\Bracketing.runtimeconfig.json
+C:\Users\FaSciCake\source\repos\Core\Bracketing_TIng\Bracketing\bin\Release\net7.0\Bracketing.dll
+C:\Users\FaSciCake\source\repos\Core\Bracketing_TIng\Bracketing\bin\Release\net7.0\Bracketing.pdb
+C:\Users\FaSciCake\source\repos\Core\Bracketing_TIng\Bracketing\obj\Release\net7.0\Bracketing.csproj.AssemblyReference.cache
+C:\Users\FaSciCake\source\repos\Core\Bracketing_TIng\Bracketing\obj\Release\net7.0\Bracketing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FaSciCake\source\repos\Core\Bracketing_TIng\Bracketing\obj\Release\net7.0\Bracketing.AssemblyInfoInputs.cache
+C:\Users\FaSciCake\source\repos\Core\Bracketing_TIng\Bracketing\obj\Release\net7.0\Bracketing.AssemblyInfo.cs
+C:\Users\FaSciCake\source\repos\Core\Bracketing_TIng\Bracketing\obj\Release\net7.0\Bracketing.csproj.CoreCompileInputs.cache
+C:\Users\FaSciCake\source\repos\Core\Bracketing_TIng\Bracketing\obj\Release\net7.0\Bracketing.dll
+C:\Users\FaSciCake\source\repos\Core\Bracketing_TIng\Bracketing\obj\Release\net7.0\refint\Bracketing.dll
+C:\Users\FaSciCake\source\repos\Core\Bracketing_TIng\Bracketing\obj\Release\net7.0\Bracketing.pdb
+C:\Users\FaSciCake\source\repos\Core\Bracketing_TIng\Bracketing\obj\Release\net7.0\Bracketing.genruntimeconfig.cache
+C:\Users\FaSciCake\source\repos\Core\Bracketing_TIng\Bracketing\obj\Release\net7.0\ref\Bracketing.dll
